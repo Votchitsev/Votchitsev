@@ -1,7 +1,8 @@
-# Привет
-#### я Дмитрий Вотчицев, fullstack-разработчик
+# Привет, я Дмитрий Вотчицев
+## fullstack-разработчик
+------------------------------------------------
 
-### Мой стек:
+#### Мой стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,7 +14,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-## Здесь полученные навыки с примерами работ:
+## Что я умею:
 
 * вёрстка сайтов с использованием HTML, CSS ([адаптивный лендинг](https://github.com/Votchitsev/mq-diplom))
 * разработка приложений с использовованием бибилиотеки React и фреймфорка Django, Django REST-framework ([облачное хранилище](https://github.com/Votchitsev/CoconutCloud))
@@ -24,3 +25,23 @@
 * работа с API сторонних сервисов ([чат-бот Вконтакте](https://github.com/Votchitsev/VKinder), [курсовой проект "Резервное копирование"](https://github.com/Votchitsev/backup_vk))
 
 ## Сертификаты Нетологии
+
+* [Основы языка программирования Python](./certificates/python.pdf)
+
+* [Git - система контроля версий](./certificates/git.pdf)
+
+* [Базы данных для python-разработчиков](./certificates/sql.pdf)
+
+* [Профессиональная работа с Python](./certificates/python_advanced.pdf)
+
+* [Django: создание функциональных веб-приложений](./certificates/django.pdf)
+
+* [HTML и CSS: основы веб-вёрстки](./certificates/html_css.pdf)
+
+* [JavaScript: основы работы в веб-браузере](./certificates/javascript.pdf)
+
+* [JavaScript: углубленный курс веб-разработки](./certificates/javascript_advanced.pdf)
+
+* [Расширенный инструментарий JavaScript в браузере](./certificates/javascript_advanced2.pdf)
+
+* [React: Библиотека №1 в современной фронтенд-разработке](./certificates/react.pdf)
