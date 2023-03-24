@@ -22,6 +22,7 @@
 * разработка приложений на JavaScript ([хаотичный органайзер](https://github.com/Votchitsev/ChaosOrganizer))
 * создание приложений на Django ([приложение для предприятия общественного питания](https://github.com/Votchitsev/Public-Catering-Check))
 * работа с реляционными базами данных PostgreSQL, SQLAlchemy (примеры выполненных домашних работ: [SQL](https://github.com/Votchitsev/HW_database_lesson5) [ORM](https://github.com/Votchitsev/ORM_practice))
+* взаимедействие с внешними API сервисами [VK_YANDEX_API](https://github.com/Votchitsev/backup_vk)
 
 ## Сертификаты Нетологии
 
