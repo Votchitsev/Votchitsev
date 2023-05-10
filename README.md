@@ -17,6 +17,7 @@
 ## Что я умею:
 
 * вёрстка сайтов с использованием HTML, CSS ([адаптивный лендинг](https://github.com/Votchitsev/mq-diplom))
+* разработка API на Node.js ([тестовое задание](https://github.com/Votchitsev/nodejs-test-task))
 * разработка приложений с использовованием бибилиотеки React и фреймфорка Django, Django REST-framework ([облачное хранилище](https://github.com/Votchitsev/CoconutCloud))
 * создание сайтов с использованием библиотеки React, Redux [сайт: интернет-магазин](https://github.com/Votchitsev/BosaNoga)
 * разработка приложений на JavaScript ([хаотичный органайзер](https://github.com/Votchitsev/ChaosOrganizer))
