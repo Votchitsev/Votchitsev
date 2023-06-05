@@ -19,7 +19,7 @@
 * вёрстка сайтов с использованием HTML, CSS ([адаптивный лендинг](https://github.com/Votchitsev/mq-diplom))
 * разработка API на Node.js ([тестовое задание](https://github.com/Votchitsev/nodejs-test-task))
 * разработка приложений с использовованием бибилиотеки React и фреймфорка Django, Django REST-framework ([облачное хранилище](https://github.com/Votchitsev/CoconutCloud))
-* создание сайтов с использованием библиотеки React, Redux, MobX [сайт: интернет-магазин](https://github.com/Votchitsev/BosaNoga), [тестовое задание: календарь](https://github.com/Votchitsev/interview-calendar), [тестовое задание: Todo-приложение](https://github.com/Votchitsev/tt-todo)
+* создание сайтов с использованием библиотеки React, Redux, MobX [сайт: интернет-магазин](https://github.com/Votchitsev/BosaNoga), [тестовое задание: календарь](https://github.com/Votchitsev/interview-calendar), [тестовое задание: Todo-приложение](https://github.com/Votchitsev/tt-todo), [тестовое задание: приложение со взаимодействием с API WatsApp](https://github.com/Votchitsev/green-api-test-task).
 * разработка приложений на JavaScript ([хаотичный органайзер](https://github.com/Votchitsev/ChaosOrganizer))
 * создание приложений на Django ([приложение для предприятия общественного питания](https://github.com/Votchitsev/Public-Catering-Check))
 * работа с реляционными базами данных PostgreSQL, SQLAlchemy (примеры выполненных домашних работ: [SQL](https://github.com/Votchitsev/HW_database_lesson5) [ORM](https://github.com/Votchitsev/ORM_practice))
